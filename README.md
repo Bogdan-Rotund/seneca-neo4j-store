@@ -21,9 +21,9 @@ persistence.
 If you're using this module, feel free to contact me on twitter if you
 have any questions! :) [@piccoloaiutante](http://twitter.com/piccoloaiutante)
 
-Current Version: 0.1.3
+Current Version: 0.1.4
 
-Tested on: Node 0.10.28, Seneca 0.5.17
+Tested on: Node 0.12.7, Seneca 0.6.5
 
 ### Quick example
 
